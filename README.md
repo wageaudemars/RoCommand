@@ -49,4 +49,6 @@ A Discord bot designed for Roblox moderation, featuring commands to ban, unban, 
 - Once the bot is set up, head to [this](https://create.roblox.com/store/asset/130010432442031/RoCommand) link to get the RoCommand server logic for roblox.
 - Put this into ServerScriptService, and ensure you have enabled **Studio Access to API Services** and allowed **HTTP Requests**!
 - Head to the module script called "RoCommand" inside the "Server" script, and paste your ban bin ID, kick bin ID and Master Key inside of the table! 
+- Once this has all been done, the bot **should** work.
 
+# Head to https://discord.gg/FYKASgDBJg for further assistance.
