@@ -1,5 +1,5 @@
 
-# RoCommand ⚙️
+# RoCommand [ THIS PROJECT IS NOW SHUT DOWN ]⚙️
 
 A Discord bot designed for Roblox moderation, featuring commands to ban, unban, kick Roblox users, and manage role-based permissions. The bot uses JSONBin for remote configuration and stores ban/kick data securely with API keys.
 
